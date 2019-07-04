@@ -1,5 +1,5 @@
 
-export class Home {
+class Home {
 
     constructor() {
         this.position = null;

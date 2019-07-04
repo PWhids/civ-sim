@@ -1,5 +1,5 @@
 
-export class Faction {
+class Faction {
 
     constructor() {
         this.name = 'something silly' + Math.random();

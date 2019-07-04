@@ -1,6 +1,6 @@
 
-export const jobs = {
+const jobs = {
     NONE: 0,
     FORAGER: 1,
-    FARMERL: 2
+    FARMER: 2
 };

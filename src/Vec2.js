@@ -1,5 +1,5 @@
 
-export class Vec2 {
+class Vec2 {
 
     constructor(xx,yy) {
         this.x = xx;

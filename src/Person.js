@@ -1,6 +1,4 @@
-import genders from 'Gender.js';
-
-export class Person {
+class Person {
 
     constructor(pos) {
         this.name = "sillyman" + Math.random();
